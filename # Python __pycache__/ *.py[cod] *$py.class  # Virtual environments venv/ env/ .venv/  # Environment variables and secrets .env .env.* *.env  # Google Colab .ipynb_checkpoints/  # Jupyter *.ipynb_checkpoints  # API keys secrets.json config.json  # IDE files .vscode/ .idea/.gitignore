@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+
+# Google Colab
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# API keys
+secrets.json
+config.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
